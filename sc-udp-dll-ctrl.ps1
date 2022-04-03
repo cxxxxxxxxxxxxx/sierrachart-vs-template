@@ -7,7 +7,7 @@
     See https://www.sierrachart.com/index.php?page=doc/UDPAPI.html
 
 .NOTES
-    Authors: cxxxxx, Frozen Tundra, malykubo
+    Authors: cxxxxx
 #>
 
 
